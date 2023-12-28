@@ -1,6 +1,6 @@
 # DESCRIBE DEMO
 
-# Created by: FELIPE RIVERA
+# Created by: Ugochukwu Udonna Okonkwo
 # Created on: 2-20-2023
 
 print ("Importing modules...")
