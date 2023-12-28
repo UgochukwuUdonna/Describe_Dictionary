@@ -1,6 +1,6 @@
 # Name:        Dictionary demo
-# Author:      frivera
-# Created:     2-26-2021
+# Author:      Ugochukwu Udonna Okonkwo
+# Created:     2-26-2023
 
 # NOTE THAT THIS MODULE DOES NOT IMPORT THE arcpy MODULE
 
